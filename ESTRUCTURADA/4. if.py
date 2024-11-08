@@ -1,4 +1,4 @@
-if _name_ == '_main_':
+if __name__ == '_main_':
     a=int(input("Teclea un numero: "))
     b=int(input("Teclea otro numero: "))
     c=int(input("Teclea uno mas: "))
